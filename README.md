@@ -1,23 +1,25 @@
-## Bem-vindo(a) ao meu perfil, Sou João Vithor 😁
+# SOAT
 
- <div>
-   <a href="https://github.com/JVgraa">
-   <img height="180em" src="https://github-readme-stats.vercel.app/api?username=JVgraa&show_icons=true&theme=tokyonight&include_all_commits=true&count_private=true"/>
-   <img height="180em" src="https://github-readme-stats.vercel.app/api/top-langs/?username=JVgraa&layout=compact&langs_count=6&theme=tokyonight"/>
-</div>
-    
-<div style="display: inline_block"><br>
-  <img align="center" alt="Js" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/javascript/javascript-plain.svg">
-  <img align="center" alt="HTML" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/html5/html5-original.svg">
-  <img align="center" alt="CSS" height="30" width="40" src="https://raw.githubusercontent.com/devicons/devicon/master/icons/css3/css3-original.svg">
-</div>
- 
-<br>
- 
-### Pra contato me segue a gente nas redes abaixo!
- 
-<div> 
- 
-  <a href="https://instagram.com/JVgraa" target="_blank"><img src="https://img.shields.io/badge/-Instagram-%23E4405F?style=for-the-badge&logo=instagram&logoColor=white" target="_blank"></a>
-  <a href="https://www.linkedin.com/in/joaovithoravila/" target="_blank"><img src="https://img.shields.io/badge/-LinkedIn-%230077B5?style=for-the-badge&logo=linkedin&logoColor=white" target="_blank"></a>
-</div>
+Aplicativo web para organizar trabalhos acadêmicos em grupo. Ele reúne andamento do projeto, tarefas, prazos e calendário em uma experiência responsiva para computador e celular.
+
+## Executar localmente
+
+```bash
+npm install
+npm run dev
+```
+
+Abra o endereço informado pelo Vite, normalmente `http://localhost:5173`.
+
+## Funcionalidades
+
+- Painel com progresso, próximas entregas e atividade recente.
+- Quadro Kanban com colunas **A fazer**, **Fazendo** e **Pronto**.
+- Criação e movimentação de tarefas, com prazo, responsável e prioridade.
+- Calendário mensal das entregas.
+- Visualização de tarefas concluídas.
+- Dados persistidos localmente no navegador para demonstração.
+
+## Tecnologias
+
+React, Vite e CSS responsivo, com tokens visuais baseados na especificação do projeto SOAT.
