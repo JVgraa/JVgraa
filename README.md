@@ -2,6 +2,8 @@
 
 Aplicativo web para organizar trabalhos acadêmicos em grupo. Ele reúne andamento do projeto, tarefas, prazos e calendário em uma experiência responsiva para computador e celular.
 
+**Acesse a versão publicada:** https://jvgraa.github.io/JVgraa/
+
 ## Executar localmente
 
 ```bash
